@@ -1,16 +1,42 @@
 ### Hi there 👋
 
-<!--
-**avalentierra/avalentierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ABOUT ME
+- Student of Information Systems Administration.
+I consider myself a responsible and proactive person, self-learning capacity, I am passionate about technology, I am always researching and learning new things about the tocology industry.
 
-Here are some ideas to get you started:
+- 🌱 I am currently learning cloud web services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# knowledge #
+  - Agile and Lean Methodology SCRUM and Kanban
+
+ - Knowledge in programming languages: Python, C, C++, Javascript, PHP.
+  
+ - Framework: Python(Django), PHP(Laravel).
+  
+ - Databases: postgrest, sqlite, mySQL, MongoDB
+  
+ - Fundamentals of data networks.
+  
+ - Git repository, github
+  
+ - API and microservice.
+
+ # Skills
+ - methodical and creative
+ - programming
+ - Ability to analyze and synthesize information
+ - 
+ 
+ # Tools
+ - Docker
+ - Postman
+ - Git, Github
+ - VS code
+ - Gns3, Packet Tracer
+ - Power BI
+ - Word, PowerPoint, Excel
+ - Pg Admin, DBeaver , XAMPP
+ - VirtualBox
+ 
+ 
+ 
