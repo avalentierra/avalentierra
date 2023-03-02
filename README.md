@@ -40,3 +40,4 @@ I consider myself a responsible and proactive person, self-learning capacity, I 
  
  
  
+[Twiter](https://twitter.com/Alifer30988136?t=54FPT6QmTmId5qAg3pd4Ng&s=09)
